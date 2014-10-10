@@ -1,0 +1,14 @@
+{
+  "name": "fieldling",
+  "version": "0.1.0",
+  "description": "fieldling",
+  "repository": "https://github.com/binaryalchemist/fieldling-js",
+  "keywords": [
+    "node.js",
+    "REST",
+    "API"
+  ],
+  "author": "binaryalchemist",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
