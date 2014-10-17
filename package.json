@@ -1,6 +1,6 @@
 {
   "name": "fieldling",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "fieldling",
   "repository": "https://github.com/binaryalchemist/fieldling-js",
   "keywords": [
@@ -8,6 +8,13 @@
     "REST",
     "API"
   ],
+  "depedencies" : [
+	"express" : "~4.9.6", 
+    "body-parser" : "~1.9.0"", 
+    "express-xml-bodyparser" : "~0.0.4", 
+    "merge" : "~1.2.0", 
+	"object-to-xml" : "~0.0.2"
+    ],
   "author": "binaryalchemist",
   "license": "MIT",
   "readmeFilename": "README.md"
